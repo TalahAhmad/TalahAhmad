@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TalahAhmad
 - 👀 I’m interested in software engineering. 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... TBD
 - 📫 You can reach me at talahh3@gmail.com
 
 <!---
